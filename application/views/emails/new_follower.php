@@ -1,0 +1,2 @@
+Hi there! User <a href="<?=base_url().'page/profile/'.$email_data['follower_id']?>"><?=$email_data['follower_fullname']?></a>  is now following you on <?=ucfirst($GLOBALS['COMPANY_NAME'])?>. No action required.
+<br><br><br>

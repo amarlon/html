@@ -1,0 +1,83 @@
+.pre-footer {
+    background: #000;
+    color: #b0b0b0;
+}
+
+.pre-footer .container {
+    padding-top: 45px;
+}
+
+.pre-footer-col {
+    padding-bottom: 22px;
+    padding-right: 50px;
+}
+
+.pre-footer h2 {
+    font: 400 21px "Open Sans", Arial, sans-serif;
+    margin: 0 0 8px;
+    color: #c2c1c1;
+    text-transform: uppercase;
+}
+
+.pre-footer p {
+    margin-bottom: 20px;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.footer {
+    background: #000;
+    color: #fff;
+    font-size: 12px;
+    padding: 20px 0 15px 0;;
+    border-top: 1px solid #fff;
+}
+
+.footer ul {
+    margin: 0;
+    padding: 0;
+}
+
+.footer .social-icons li {
+    float: right;
+    margin: 0 0 0 5px;
+}
+
+.footer ul.social-icons li a {
+    opacity: 0.5;
+}
+
+.footer a {
+    color: #fff !important;
+    text-decoration: underline;
+}
+
+.go2top i {
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.go2top, .go2top:focus {
+    position: fixed;
+    right: 15px;
+    bottom: 8px;
+    color: #999;
+    width: 38px;
+    height: 38px;
+    border: solid 2px #999;
+    border-radius: 50% !important;
+    text-align: center;
+    padding: 7px 0 0 1px;
+    z-index: 99999;
+    font-size: 18px;
+    line-height: 1;
+}
+
+.go2top:hover {
+    border: solid 2px #FFF;
+    color: #FFF;
+}
+
+.logged-in-body .view-container {
+    margin-bottom: 100px;
+}

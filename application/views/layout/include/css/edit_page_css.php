@@ -1,0 +1,2 @@
+<link rel="stylesheet" type="text/css" href="/assets/global/plugins/jquery-tags-input/jquery.tagsinput.css?v=<?=FILE_VERSION?>"/>
+<link href="/assets/global/plugins/dropzone/css/dropzone.css?v=<?=FILE_VERSION?>" rel="stylesheet"/>

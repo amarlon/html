@@ -1,0 +1,1 @@
+<script src="/assets/admin/pages/scripts/hotshi/inbox.js?v=<?=FILE_VERSION?>"></script>
